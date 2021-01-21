@@ -1,1 +1,1 @@
-# -artificial-intelligence-course-exercises
+# Artificial Intelligence course exercises
